@@ -1,0 +1,162 @@
+
+		*{
+			margin: 0px;
+			position: 0px;
+		}
+		.father{
+			width:600px ;
+			height: 913px;
+			margin: 0 auto;
+			background: url(images/4.png) no-repeat;
+		}
+		.top{
+			width: 600px;
+			height: 83px;
+			background: ; 
+			display: flex;
+			justify-content: space-between;
+		}
+		.right{
+			width: 97px;
+			height: 83px;
+			background: url(images/3.png) no-repeat;
+			background-position: center;
+			cursor: pointer; 
+		}
+		.middle{
+			width: 406px;
+			height: 83px;
+			
+			text-align: center;
+			line-height: 83px;
+			font-size: 32px;
+			color: #d1e9ec;
+			cursor: pointer;
+		}
+		.left{
+			width: 97px;
+			height: 83px;
+			background: url(images/2.png) no-repeat;
+			background-position: center;
+			cursor: pointer; 
+		}
+		.photo{
+			width: 600px;
+			height: 268px;
+			
+		}
+		.add1{
+			width: 149px;
+			height: 149px;
+			background: url(images/1.png) no-repeat;
+			position: relative;
+			left: 230px;
+			top: 60px;
+			cursor: pointer; 
+		}
+
+		add2{
+			width: 69px;
+			height: 16px;
+			background-color: black;
+			position: relative;
+			left: 270px;
+		}
+		.text{
+			width: 600px;
+			height: 220px;
+			background-color: ;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-around;
+
+		}
+		input{
+			border: none;
+			background-color: transparent;
+		}
+		.show{
+			width: 60px;
+			height: 24px;
+			background-color: green;
+			position: relative;
+			left: 78%;
+			bottom: 40px;
+			color: #3cffb5;
+		}
+		.first{
+			width: 441px;
+			height: 53px;
+			
+			margin: 0 auto;
+			font-size: 20px;
+			color: #ffffff;
+			border-bottom: 2px solid #9896c2;
+			
+		}
+		.last{
+			width: 441px;
+			height: 53px;
+			
+			margin: 0 auto;
+			font-size: 20px;
+			color: #ffffff;
+			border-bottom: 2px solid #9896c2;
+		}
+
+		.email{
+			width: 441px;
+			height: 53px;
+			
+			margin: 0 auto;
+			font-size: 20px;
+			color: #ffffff;
+			border-bottom: 2px solid #9896c2;
+		}
+		.password{
+			width: 441px;
+			height: 53px;
+			
+			margin: 0 auto;
+			line-height: 53px;
+			font-size: 20px;
+			color: #ffffff;
+		}
+		.end{
+			width: 600px;
+			height: 350px;
+			
+		}
+		.sign{
+			width: 442px;
+			height: 76px;
+			background-color:white ;
+			border-radius: 100px;
+			margin: 0 auto;
+			text-align: center;
+			line-height: 76px;
+			color: #706d9f;
+			font-size: 32px;
+			position: relative;
+			top: 40px;
+			cursor: pointer; 
+		}
+		
+		.old{
+			width: 600px;
+			height: 80px;
+			text-align: center;
+			position: relative;
+			top: 60px;
+			color: #ffffff;
+			font-size: 20px;
+
+		}
+		
+		a {
+		color:#3cffb5;
+		font-weight:Normal; 
+		text-decoration:none; 
+		font-size: 20px;
+		}
+	
